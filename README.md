@@ -18,4 +18,5 @@ Durante o curso, pude consolidar conceitos fundamentais que estruturam o univers
 ---
 
 ✍️ Com esses conhecimentos, escrevi um artigo completo sobre o tema, que você pode ler aqui:
+
 👉 [**Computação em Nuvem: O Futuro da Tecnologia ao Nosso Alcance**](https://dio.me/articles/computacao-em-nuvem-o-futuro-da-tecnologia-ao-nosso-alcance-e1b73d6bfe75)
